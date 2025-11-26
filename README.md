@@ -4,26 +4,3 @@
 </p>
 
 <h1 align="center">Hi, I'm Oliver 👋</h1>
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ialqas&show_icons=true&theme=merko"
-    alt="GitHub Stats"
-  />
-</p>
-
----
-
-## 🔤 Top Languages
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ialqas&layout=compact&theme=merko"
-    alt="Top Languages"
-  />
-</p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ialqas)]
