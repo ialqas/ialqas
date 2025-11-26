@@ -5,19 +5,12 @@
 
 <h1 align="center">Hi, I'm Oliver 👋</h1>
 
----
-
-## 🌟 About Me
-I'm interested in Machine Learning, particularly in its applications to Natural Language Processing (NLP) and Computer Vision.
-
-
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=ialqas&show_icons=true&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api?username=ialqas&show_icons=true&theme=merko"
     alt="GitHub Stats"
   />
 </p>
@@ -28,14 +21,7 @@ I'm interested in Machine Learning, particularly in its applications to Natural 
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ialqas&layout=compact&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ialqas&layout=compact&theme=merko"
     alt="Top Languages"
   />
 </p>
-
----
-
-## 🚀 Currently Working On
-- Master of Science in Computer Science at Technical University of Munich (TUM)
-
----
